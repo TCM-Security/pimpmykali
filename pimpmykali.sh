@@ -7,7 +7,7 @@
 # Company: Educate 360 / TCM Security
 # License: MIT (https://opensource.org/licenses/MIT)
 #
-# git clone https://github.com/tcmsecurity/pimpmykali
+# git clone https://github.com/TCM-Security/pimpmykali
 # Usage: sudo ./pimpmykali.sh  ( defaults to the menu system )
 # command line arguments are valid
 #
